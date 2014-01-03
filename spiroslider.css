@@ -1,0 +1,8 @@
+#slider-bg {
+    background:url(yui/assets/bg-fader.gif) 5px 0 no-repeat;
+}
+#slider-thumb {
+    left: 0;
+}
+
+// http://developer.yahoo.com/yui/examples//slider/assets/bg-fader.gif
